@@ -1,4 +1,10 @@
+```sh
+pnpm install
+pnpm run deploy
 ```
-npm install
-npm run deploy
+
+### Run dev server
+
+```sh
+pnpm run dev
 ```
